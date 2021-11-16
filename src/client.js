@@ -1,4 +1,4 @@
-import sanityClient from '@sanity/client'
+import sanityCliejt from '@sanity/client'
 
 export default sanityClient({
     projectId: "chg8lmwp",
